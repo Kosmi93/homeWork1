@@ -1,4 +1,4 @@
-public class TastTwo {
+public class TaskTwo {
     public static void main(String[] args) {
         double dog = 8.0;
         double cat = 3.6;
